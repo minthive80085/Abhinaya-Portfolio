@@ -208,7 +208,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/portfolio.avif"),
+      image: require("./assets/images/portfolio.png"),
       projectName: "Portfolio",
       projectDesc: "Designed and deployed a fully responsive, visually engaging portfolio to showcase projects, skills, and resume.",
       footerLink: [
