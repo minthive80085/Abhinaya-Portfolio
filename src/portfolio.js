@@ -105,7 +105,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Malla Reddy Engineering College",
-      logo: require("./assets/images/MRUH.jpg"),
+      logo: require("./assets/images/MRUH.png"),
       subHeader: "Bachelors of Technology in Computer Science",
       duration: "September 2023 - 2027",
       descBullets: [
@@ -114,7 +114,7 @@ const educationInfo = {
     },
     {
       schoolName: "Alphores Junior College",
-      logo: require("./assets/images/ALP_Logo.jpg"),
+      logo: require("./assets/images/ALP_Logo.png"),
       subHeader: "Intermediate Education",
       duration: "September 2021 -  2023",
       descBullets: [
