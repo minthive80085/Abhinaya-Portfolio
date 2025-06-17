@@ -104,7 +104,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Malla Reddy Engineering College",
+      schoolName: "Malla Reddy College of Engineering and Technology",
       logo: require("./assets/images/MRUH.png"),
       subHeader: "Bachelors of Technology in Computer Science",
       duration: "September 2023 - 2027",
